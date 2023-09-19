@@ -1,7 +1,7 @@
 # TowerShooter
 Name of game: Tower Defence
 
-<img width="373" alt="blurrBG" src="https://github.com/BadBanana5/TowerShooter/assets/134112996/d70af258-7146-4c6a-ad9d-1b3c4a8f7653">
+<img width="373" alt="blurrBG" src="https://github.com/BadBanana5/TowerShooter/blob/main/TowerDefence-Phillip_Sparrow/Main/Assets/blurrBG.png">
 
 **Vision** 
 
